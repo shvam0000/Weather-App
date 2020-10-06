@@ -14,9 +14,12 @@ git clone https://github.com/shvam0000/Weather-App.git
 
 ## Installation and running the server
 
+- To install all the dependencies from node
 ```bash
 npm install
-
+```
+- To start the project on a local server
+```bash
 npm start
 ```
 ### Use localhost:3000 to run the server on your browser
